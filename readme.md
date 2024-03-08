@@ -1,7 +1,7 @@
 # Hyper-EX 2022 A Hyper Terminal Theme - Visual Studio 2022
 A black Visual Studio theme inspired by Hyper Terminal
 
-![Theme Screenshot](/assets/sample.png)
+![Theme Screenshot](/Assets/sample.png)
 
 
 ## Theme
